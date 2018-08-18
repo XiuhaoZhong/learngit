@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 This is the xiuhao's readme.txt
 Here is branch msater, there is a new code.
+Here is branch feature1, and there'll be a feature1.
