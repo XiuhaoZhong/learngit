@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 This is the xiuhao's readme.txt
+Here is branch msater, there is a new code.
