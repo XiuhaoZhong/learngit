@@ -1,8 +1,6 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+This is readme.txt
+This line is added in the branch dev
 
-This is the xiuhao's readme.txt
-Here is branch msater, there is a new code.
-Here is branch feature1, and there'll be a feature1.
+Creating a branch is quick.
+
+fast forward mode
